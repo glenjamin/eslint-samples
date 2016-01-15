@@ -73,6 +73,6 @@
         "no-path-concat": 0,
         "comma-dangle": 0,
         "camelcase": 0,
-        "one-var": [2, "always"]
+        "one-var": [2, "never"]
     }
 }
